@@ -6,8 +6,8 @@ import { useState } from "react";
 const experiences = [
 	{
 		id: 1,
-		startDate: "Aug 2023",
-		endDate: "Jan 2024",
+		startDate: "Jan 2022",
+		endDate: "Aug 2023",
 		company: "Crypto Technocraft Private Limited",
 		position: "Frontend Developer",
 		type: "Intern",
@@ -25,7 +25,7 @@ const experiences = [
 	},
 	{
 		id: 2,
-		startDate: "Jan 2024",
+		startDate: "Aug 2023",
 		endDate: "Present",
 		company: "Affy Cloud Solutions",
 		position: "Software Engineer",

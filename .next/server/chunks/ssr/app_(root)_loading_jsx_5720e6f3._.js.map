@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/MyPortfolio/New%20folder/portfolio/app/%28root%29/loading.jsx"],"sourcesContent":["export default function Loading() {\r\n\treturn (\r\n\t\t<div className=\"fixed top-0 left-0 flex justify-center items-center h-screen w-screen bg-gray-300 z-[999]\">\r\n\t\t\t<h1 className=\"text-4xl text-gray-900\">Loading...</h1>\r\n\t\t</div>\r\n\t);\r\n}\r\n"],"names":[],"mappings":";;;;;AAAe,SAAS;IACvB,qBACC,8OAAC;QAAI,WAAU;kBACd,cAAA,8OAAC;YAAG,WAAU;sBAAyB;;;;;;;;;;;AAG1C","debugId":null}}]
+}

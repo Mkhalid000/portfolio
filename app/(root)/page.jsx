@@ -8,7 +8,7 @@ import Link from "next/link";
 // components
 import Button from "@/components/Button";
 import Me from "@/public/image/me.jpg";
-import MeAbout from "@/public/image/me2.jpg";
+import MeAbout from "@/public/image/me5.jpg";
 import Setup from "@/public/image/setup.avif";
 import ProjectAll from "@/public/image/project.avif";
 import Hr from "@/components/Hr";
@@ -82,7 +82,7 @@ const MyPage = () => {
 											delay: 0.4,
 											type: "spring",
 										}}>
-										Hi! I&rsquo;am Khalid, A junior fullstack developer specializing in
+										Hi! I&rsquo;am Khalid, A fullstack developer specializing in
 										modern Web Development with a growing focus on Artificial
 										Intelligence. Passionate about building scalable,
 										user-friendly web applications and exploring AI technologies
