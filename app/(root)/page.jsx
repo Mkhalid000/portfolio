@@ -22,6 +22,7 @@ import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 const MyPage = () => {
 	const fullpageOptions = {
+		licenseKey: "GPL-3",
 		anchors: ["home", "about", "projects", "contact"],
 		scrollingSpeed: 1000,
 		menu: "#sidebar",

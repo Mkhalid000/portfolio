@@ -302,6 +302,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$fortawesom
 ;
 const MyPage = ()=>{
     const fullpageOptions = {
+        licenseKey: "GPL-3",
         anchors: [
             "home",
             "about",
@@ -348,17 +349,17 @@ const MyPage = ()=>{
                                                         placeholder: "blur"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 47,
+                                                        lineNumber: 48,
                                                         columnNumber: 12
                                                     }, void 0)
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/(root)/page.jsx",
-                                                    lineNumber: 46,
+                                                    lineNumber: 47,
                                                     columnNumber: 11
                                                 }, void 0)
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 45,
+                                                lineNumber: 46,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].h3, {
@@ -378,7 +379,7 @@ const MyPage = ()=>{
                                                 children: "Mohammad Khalid"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 57,
+                                                lineNumber: 58,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].h1, {
@@ -398,7 +399,7 @@ const MyPage = ()=>{
                                                 children: "Full Stack Developer"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 67,
+                                                lineNumber: 68,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -418,7 +419,7 @@ const MyPage = ()=>{
                                                 children: "Hi! I’am Khalid, A fullstack developer specializing in modern Web Development with a growing focus on Artificial Intelligence. Passionate about building scalable, user-friendly web applications and exploring AI technologies such as generative models and LLM integration."
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 77,
+                                                lineNumber: 78,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -446,12 +447,12 @@ const MyPage = ()=>{
                                                             children: "Download CV"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/(root)/page.jsx",
-                                                            lineNumber: 100,
+                                                            lineNumber: 101,
                                                             columnNumber: 12
                                                         }, void 0)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 99,
+                                                        lineNumber: 100,
                                                         columnNumber: 11
                                                     }, void 0),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Button$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
@@ -461,24 +462,24 @@ const MyPage = ()=>{
                                                             children: "Contact Me"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/(root)/page.jsx",
-                                                            lineNumber: 109,
+                                                            lineNumber: 110,
                                                             columnNumber: 12
                                                         }, void 0)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 108,
+                                                        lineNumber: 109,
                                                         columnNumber: 11
                                                     }, void 0)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 91,
+                                                lineNumber: 92,
                                                 columnNumber: 10
                                             }, void 0)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/(root)/page.jsx",
-                                        lineNumber: 38,
+                                        lineNumber: 39,
                                         columnNumber: 9
                                     }, void 0),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -506,28 +507,28 @@ const MyPage = ()=>{
                                                 className: "rounded-full w-full h-full object-cover"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 122,
+                                                lineNumber: 123,
                                                 columnNumber: 11
                                             }, void 0)
                                         }, void 0, false, {
                                             fileName: "[project]/app/(root)/page.jsx",
-                                            lineNumber: 121,
+                                            lineNumber: 122,
                                             columnNumber: 10
                                         }, void 0)
                                     }, void 0, false, {
                                         fileName: "[project]/app/(root)/page.jsx",
-                                        lineNumber: 113,
+                                        lineNumber: 114,
                                         columnNumber: 9
                                     }, void 0)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/(root)/page.jsx",
-                                lineNumber: 37,
+                                lineNumber: 38,
                                 columnNumber: 8
                             }, void 0)
                         }, void 0, false, {
                             fileName: "[project]/app/(root)/page.jsx",
-                            lineNumber: 36,
+                            lineNumber: 37,
                             columnNumber: 7
                         }, void 0),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -563,17 +564,17 @@ const MyPage = ()=>{
                                                 placeholder: "blur"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 155,
+                                                lineNumber: 156,
                                                 columnNumber: 11
                                             }, void 0)
                                         }, void 0, false, {
                                             fileName: "[project]/app/(root)/page.jsx",
-                                            lineNumber: 137,
+                                            lineNumber: 138,
                                             columnNumber: 10
                                         }, void 0)
                                     }, void 0, false, {
                                         fileName: "[project]/app/(root)/page.jsx",
-                                        lineNumber: 136,
+                                        lineNumber: 137,
                                         columnNumber: 9
                                     }, void 0),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -596,12 +597,12 @@ const MyPage = ()=>{
                                                 children: "About Me"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 165,
+                                                lineNumber: 166,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Hr$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 175,
+                                                lineNumber: 176,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -621,7 +622,7 @@ const MyPage = ()=>{
                                                 children: "A brief introduction about me and my interest."
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 176,
+                                                lineNumber: 177,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -644,34 +645,34 @@ const MyPage = ()=>{
                                                         children: "Learn More"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 194,
+                                                        lineNumber: 195,
                                                         columnNumber: 12
                                                     }, void 0)
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/(root)/page.jsx",
-                                                    lineNumber: 193,
+                                                    lineNumber: 194,
                                                     columnNumber: 11
                                                 }, void 0)
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 186,
+                                                lineNumber: 187,
                                                 columnNumber: 10
                                             }, void 0)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/(root)/page.jsx",
-                                        lineNumber: 164,
+                                        lineNumber: 165,
                                         columnNumber: 9
                                     }, void 0)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/(root)/page.jsx",
-                                lineNumber: 135,
+                                lineNumber: 136,
                                 columnNumber: 8
                             }, void 0)
                         }, void 0, false, {
                             fileName: "[project]/app/(root)/page.jsx",
-                            lineNumber: 134,
+                            lineNumber: 135,
                             columnNumber: 7
                         }, void 0),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -707,17 +708,17 @@ const MyPage = ()=>{
                                                 placeholder: "blur"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 221,
+                                                lineNumber: 222,
                                                 columnNumber: 11
                                             }, void 0)
                                         }, void 0, false, {
                                             fileName: "[project]/app/(root)/page.jsx",
-                                            lineNumber: 203,
+                                            lineNumber: 204,
                                             columnNumber: 10
                                         }, void 0)
                                     }, void 0, false, {
                                         fileName: "[project]/app/(root)/page.jsx",
-                                        lineNumber: 202,
+                                        lineNumber: 203,
                                         columnNumber: 9
                                     }, void 0),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -740,12 +741,12 @@ const MyPage = ()=>{
                                                 children: "My Projects"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 231,
+                                                lineNumber: 232,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Hr$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 241,
+                                                lineNumber: 242,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -773,13 +774,13 @@ const MyPage = ()=>{
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 251,
+                                                        lineNumber: 252,
                                                         columnNumber: 11
                                                     }, void 0)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 242,
+                                                lineNumber: 243,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -802,34 +803,34 @@ const MyPage = ()=>{
                                                         children: "Learn More"
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 264,
+                                                        lineNumber: 265,
                                                         columnNumber: 12
                                                     }, void 0)
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/(root)/page.jsx",
-                                                    lineNumber: 263,
+                                                    lineNumber: 264,
                                                     columnNumber: 11
                                                 }, void 0)
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 256,
+                                                lineNumber: 257,
                                                 columnNumber: 10
                                             }, void 0)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/(root)/page.jsx",
-                                        lineNumber: 230,
+                                        lineNumber: 231,
                                         columnNumber: 9
                                     }, void 0)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/(root)/page.jsx",
-                                lineNumber: 201,
+                                lineNumber: 202,
                                 columnNumber: 8
                             }, void 0)
                         }, void 0, false, {
                             fileName: "[project]/app/(root)/page.jsx",
-                            lineNumber: 200,
+                            lineNumber: 201,
                             columnNumber: 7
                         }, void 0),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -865,17 +866,17 @@ const MyPage = ()=>{
                                                 placeholder: "blur"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 291,
+                                                lineNumber: 292,
                                                 columnNumber: 11
                                             }, void 0)
                                         }, void 0, false, {
                                             fileName: "[project]/app/(root)/page.jsx",
-                                            lineNumber: 273,
+                                            lineNumber: 274,
                                             columnNumber: 10
                                         }, void 0)
                                     }, void 0, false, {
                                         fileName: "[project]/app/(root)/page.jsx",
-                                        lineNumber: 272,
+                                        lineNumber: 273,
                                         columnNumber: 9
                                     }, void 0),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -898,12 +899,12 @@ const MyPage = ()=>{
                                                 children: "Get In Touch"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 301,
+                                                lineNumber: 302,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Hr$2e$jsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 311,
+                                                lineNumber: 312,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -928,13 +929,13 @@ const MyPage = ()=>{
                                                         children: "questions or just want to say hi."
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 321,
+                                                        lineNumber: 322,
                                                         columnNumber: 11
                                                     }, void 0)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 312,
+                                                lineNumber: 313,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].p, {
@@ -956,12 +957,12 @@ const MyPage = ()=>{
                                                     children: "mkhalid01603@gmail.com"
                                                 }, void 0, false, {
                                                     fileName: "[project]/app/(root)/page.jsx",
-                                                    lineNumber: 333,
+                                                    lineNumber: 334,
                                                     columnNumber: 11
                                                 }, void 0)
                                             }, void 0, false, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 325,
+                                                lineNumber: 326,
                                                 columnNumber: 10
                                             }, void 0),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -991,12 +992,12 @@ const MyPage = ()=>{
                                                             className: "text-3xl"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/(root)/page.jsx",
-                                                            lineNumber: 348,
+                                                            lineNumber: 349,
                                                             columnNumber: 12
                                                         }, void 0)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 339,
+                                                        lineNumber: 340,
                                                         columnNumber: 11
                                                     }, void 0),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].a, {
@@ -1025,12 +1026,12 @@ const MyPage = ()=>{
                                                             className: "text-3xl"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/(root)/page.jsx",
-                                                            lineNumber: 362,
+                                                            lineNumber: 363,
                                                             columnNumber: 12
                                                         }, void 0)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 351,
+                                                        lineNumber: 352,
                                                         columnNumber: 11
                                                     }, void 0),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].a, {
@@ -1059,12 +1060,12 @@ const MyPage = ()=>{
                                                             className: "text-3xl"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/(root)/page.jsx",
-                                                            lineNumber: 375,
+                                                            lineNumber: 376,
                                                             columnNumber: 12
                                                         }, void 0)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 364,
+                                                        lineNumber: 365,
                                                         columnNumber: 11
                                                     }, void 0),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].a, {
@@ -1093,52 +1094,52 @@ const MyPage = ()=>{
                                                             className: "text-3xl"
                                                         }, void 0, false, {
                                                             fileName: "[project]/app/(root)/page.jsx",
-                                                            lineNumber: 391,
+                                                            lineNumber: 392,
                                                             columnNumber: 12
                                                         }, void 0)
                                                     }, void 0, false, {
                                                         fileName: "[project]/app/(root)/page.jsx",
-                                                        lineNumber: 380,
+                                                        lineNumber: 381,
                                                         columnNumber: 11
                                                     }, void 0)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/app/(root)/page.jsx",
-                                                lineNumber: 338,
+                                                lineNumber: 339,
                                                 columnNumber: 10
                                             }, void 0)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/(root)/page.jsx",
-                                        lineNumber: 300,
+                                        lineNumber: 301,
                                         columnNumber: 9
                                     }, void 0)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/(root)/page.jsx",
-                                lineNumber: 271,
+                                lineNumber: 272,
                                 columnNumber: 8
                             }, void 0)
                         }, void 0, false, {
                             fileName: "[project]/app/(root)/page.jsx",
-                            lineNumber: 270,
+                            lineNumber: 271,
                             columnNumber: 7
                         }, void 0)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/app/(root)/page.jsx",
-                    lineNumber: 35,
+                    lineNumber: 36,
                     columnNumber: 6
                 }, void 0),
             ...fullpageOptions
         }, void 0, false, {
             fileName: "[project]/app/(root)/page.jsx",
-            lineNumber: 33,
+            lineNumber: 34,
             columnNumber: 4
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/(root)/page.jsx",
-        lineNumber: 32,
+        lineNumber: 33,
         columnNumber: 3
     }, this);
 };
