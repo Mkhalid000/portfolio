@@ -2,6 +2,7 @@ const withBundleAnalyzer = require("@next/bundle-analyzer")({
 	enabled: process.env.ANALYZE === "true",
 });
 module.exports = withBundleAnalyzer({
+	output: "export",
 	// your Next.js configuration
 	images: {
 		remotePatterns: [
@@ -10,9 +11,9 @@ module.exports = withBundleAnalyzer({
 				hostname: "i.scdn.co",
 			},
 		],
-		// Add image optimization settings
 		formats: ["image/avif", "image/webp"],
 		minimumCacheTTL: 60,
+		unoptimized: true,
 	},
 	webpack: (config, options) => {
 		config.module.rules.push({
@@ -22,41 +23,6 @@ module.exports = withBundleAnalyzer({
 
 		return config;
 	},
-	async headers() {
-		return [
-			{
-				source: "/sitemap.xml.gz",
-				headers: [
-					{
-						key: "Content-Type",
-						value: "application/gzip",
-					},
-					{
-						key: "Cache-Control",
-						value: "public, max-age=3600", // Cache for 1 hour
-					},
-				],
-			},
-			{
-				source: "/:path*",
-				headers: [
-					{
-						key: "X-Content-Type-Options",
-						value: "nosniff",
-					},
-					{
-						key: "X-Frame-Options",
-						value: "DENY",
-					},
-					{
-						key: "X-XSS-Protection",
-						value: "1; mode=block",
-					},
-				],
-			},
-		];
-	},
-	// Add performance optimizations
 	reactStrictMode: true,
 	compiler: {
 		removeConsole:

@@ -1,6 +1,1 @@
-{
-  "/(root)/page": "app/(root)/page.js",
-  "/about/page": "app/about/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/projects/page": "app/projects/page.js"
-}
+{}
