@@ -9,8 +9,8 @@ import Link from "next/link";
 import Button from "@/components/Button";
 import Me from "@/public/image/me.jpg";
 import MeAbout from "@/public/image/me5.jpg";
-import Setup from "@/public/image/setup.avif";
-import ProjectAll from "@/public/image/project.avif";
+import Setup from "@/public/image/setup1.jpg";
+import ProjectAll from "@/public/image/project.jpg";
 import Hr from "@/components/Hr";
 // icons
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -32,8 +32,8 @@ const MyPage = () => {
 	return (
 		<div>
 			<ReactFullpage
-				render={({ state, fullpageApi }) => (
-					<ReactFullpage.Wrapper>
+				render={() => (
+					<>
 						<div className="section">
 							<div className="mx-auto container grid grid-cols-1 md:grid-cols-3 gap-4 p-10 overflow-hidden md:px-20">
 								<motion.div
@@ -396,7 +396,7 @@ const MyPage = () => {
 								</div>
 							</div>
 						</div>
-					</ReactFullpage.Wrapper>
+					</>
 				)}
 				{...fullpageOptions}
 			/>

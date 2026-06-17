@@ -1,1 +1,9 @@
-{}
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/projects/archive/page": "app/projects/archive/page.js",
+  "/about/page": "app/about/page.js",
+  "/projects/[slug]/page": "app/projects/[slug]/page.js"
+}
